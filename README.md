@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @archduke93
+- 👋 Hi, I’m @avvoesport
 - 👀 I’m interested in how system process
 - 🌱 I’m currently learning python basic and start to try bootcamp
 - 💞️ I’m looking to collaborate on any streategic game or idea. good at logic stuff
